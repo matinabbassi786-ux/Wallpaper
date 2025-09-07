@@ -9,3 +9,5 @@ Are you looking to refresh the look of your computer or smartphone with beautifu
 - ⚡ Minimal and Clean Designs
 - 🎮 Gaming Themes
 - 🌸 Inspirational Quotes with Beautiful Backgrounds
+
+[Duck Duck Go](https://raw.githubusercontent.com/matinabbassi786-ux/Wallpaper/refs/heads/main/wallpaper/wallpaper%20(152).jpg"The best search engine for privacy").
