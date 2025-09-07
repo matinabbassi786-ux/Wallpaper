@@ -10,4 +10,5 @@ Are you looking to refresh the look of your computer or smartphone with beautifu
 - 🎮 Gaming Themes
 - 🌸 Inspirational Quotes with Beautiful Backgrounds
 
-[Duck Duck Go](https://raw.githubusercontent.com/matinabbassi786-ux/Wallpaper/refs/heads/main/wallpaper/wallpaper%20(152).jpg"The best search engine for privacy").
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/matinabbassi786-ux/Wallpaper/refs/heads/main/wallpaper/wallpaper%20(152).jpg"San Juan Mountains")
+
