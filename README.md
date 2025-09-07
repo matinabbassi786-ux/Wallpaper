@@ -10,5 +10,6 @@ Are you looking to refresh the look of your computer or smartphone with beautifu
 - 🎮 Gaming Themes
 - 🌸 Inspirational Quotes with Beautiful Backgrounds
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/matinabbassi786-ux/Wallpaper/refs/heads/main/wallpaper/wallpaper%20(152).jpg"San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://github.com/matinabbassi786-ux/Wallpaper/blob/main/wallpaper/wallpaper%20(152).jpg "San Juan Mountains")
+
 
