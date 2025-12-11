@@ -23,4 +23,9 @@ Are you looking to refresh the look of your computer or smartphone with beautifu
 ![The San Juan Mountains are beautiful!](https://github.com/matinabbassi786-ux/Wallpaper/blob/main/wallpaper/wallpaper%20(90).jpg "San Juan Mountains")
 
 
-![The San Juan Mountains are beautiful!](https://github.com/matinabbassi786-ux/Wallpaper/blob/main/wallpaper/wallpaper%20(201).jpg)
+![The San Juan Mountains are beautiful!](https://github.com/matinabbassi786-ux/Wallpaper/blob/main/wallpaper/wallpaper%20(99).jpg)
+
+
+
+![The San Juan Mountains are beautiful!](https://github.com/matinabbassi786-ux/Wallpaper/blob/main/wallpaper/wallpaper%20(140).jpg)
+
